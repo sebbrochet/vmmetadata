@@ -5,6 +5,7 @@ This command-line tool lets you export/import metadata (custom fields) from/to a
 Requirements
 * linux box
 * Python 2.6 or higher
+* [argparse](https://docs.python.org/3/library/argparse.html) library
 * [pyvmomi](https://github.com/vmware/pyvmomi) library
 * [pyyaml](http://pyyaml.org/) library
 * access to a VMWare vCenter host
