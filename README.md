@@ -3,7 +3,7 @@
 This command-line tool lets you export/import metadata (custom fields) from/to a VMWare vCenter host.
 
 Requirements
-* linux box
+* linux or windows box
 * Python 2.6 or higher
 * [argparse](https://docs.python.org/3/library/argparse.html) library
 * [pyvmomi](https://github.com/vmware/pyvmomi) library
